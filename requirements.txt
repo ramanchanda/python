@@ -1,4 +1,4 @@
 django
 gunicorn
 django-heroku
-pyBarcode
+pyBarcode==0.7
