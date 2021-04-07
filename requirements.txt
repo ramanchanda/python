@@ -2,3 +2,4 @@ django
 gunicorn
 django-heroku
 python-barcode
+pyRFC3339==0.2
